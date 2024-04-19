@@ -4,7 +4,7 @@ asfdasdf
 
 ###![banana-cat-running](https://github.com/kokoavailable/kokoavailable/assets/165033012/06cf2180-072e-4235-ab6f-f77e3fde0cc6)
 
-<img align="right" height="150" src="https://imgur.com/a/mgJb7Uf](https://i.imgur.com/EQPh9qs.gif"  />
+<img align="right" height="150" src="https://i.imgur.com/EQPh9qs.gif"  />
 
 ###
 
