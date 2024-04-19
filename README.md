@@ -1,9 +1,9 @@
 asfdasdf
 <h2 align="left">asfdasdf</h2>
 
-###![banana-cat-running](https://github.com/kokoavailable/kokoavailable/assets/165033012/06cf2180-072e-4235-ab6f-f77e3fde0cc6)
+![banana-cat-running](https://github.com/kokoavailable/kokoavailable/assets/165033012/06cf2180-072e-4235-ab6f-f77e3fde0cc6)
 
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
