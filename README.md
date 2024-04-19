@@ -1,8 +1,8 @@
 asfdasdf
 <h2 align="left">asfdasdf</h2>
+![banana-cat-running](https://github.com/kokoavailable/kokoavailable/assets/165033012/9fd0c104-7396-4ee7-8218-71ec83e21c7f)
 
 
-<img align="right" height="150" src="https://i.imgur.com/EQPh9qs.gif"  />
 
 ###
 
