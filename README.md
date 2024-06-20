@@ -22,5 +22,5 @@ A swing trader who wants to perfect the ultimate trading algorithm.
 
 ###
 <div align="left">
-  <iframe src="https://hackerrank-badge.herokuapp.com/kokoavailable?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+  <img src="path_to_your_hackerrank_badge_image.png" alt="HackerRank Badge" height="240px" width="240px" />
 </div>
