@@ -21,6 +21,4 @@ A swing trader who wants to perfect the ultimate trading algorithm.
 </div>
 
 ###
-<div align="left">
-  <img src="path_to_your_hackerrank_badge_image.png" alt="HackerRank Badge" height="240px" width="240px" />
-</div>
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/PaulBae?theme=dark&font=Comforter%20Brush&ext=activity))
