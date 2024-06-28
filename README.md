@@ -21,4 +21,4 @@ A swing trader who wants to perfect the ultimate trading algorithm.
 </div>
 
 ###
-![Leetcode Stats](https://leetcard.jacoblin.cool/PaulBae?theme=dark&font=Comforter%20Brush&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/PaulBae?theme=dark&font=Pacifico%20Brush&ext=activity)
