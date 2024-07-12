@@ -4,6 +4,7 @@
 
 ###
 A swing trader who wants to perfect the ultimate trading algorithm.
+Studying for the CFA.. 2024 07~
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
