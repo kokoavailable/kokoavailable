@@ -4,6 +4,7 @@
 
 ###
 A swing trader who wants to perfect the ultimate trading algorithm.
+<br>
 Studying for the CFA.. 2024 07~
 
 <div align="left">
