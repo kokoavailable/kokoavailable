@@ -31,4 +31,7 @@ Studying for the CFA.. 2024 07~
 </div>
 
 ###
-![Leetcode Stats](https://leetcard.jacoblin.cool/PaulBae?theme=dark&font=Pacifico%20Brush&ext=activity)
+
+<img src="https://leetcard.jacoblin.cool/PaulBae?theme=dark&font=Pacifico%20Brush&ext=activity" alt="Leetcode Stats" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoavailable&layout=compact" alt="Top Langs" width="400">
+
