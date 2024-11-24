@@ -4,7 +4,7 @@
 ![banana-cat-running](https://github.com/kokoavailable/kokoavailable/assets/165033012/06cf2180-072e-4235-ab6f-f77e3fde0cc6)
 
 ---
-A swing trader who wants to perfect the ultimate trading algorithm.
+A man who wants to perfect the ultimate trading algorithm.
 <br>
 Studying for the CFA.. 2024 07~
 <br>
