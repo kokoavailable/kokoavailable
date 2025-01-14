@@ -18,6 +18,9 @@ Waiting for the exam result.. 2024 11~
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 &nbsp;
   <img src="https://raw.githubusercontent.com/kokoavailable/kokoavailable/main/image_with_white_bg.png" height="30" alt="pandas logo with white background"/>
+&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="30"/>
+          
           
           
           
