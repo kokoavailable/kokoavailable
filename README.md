@@ -8,7 +8,6 @@ A man who wants to perfect the ultimate trading algorithm.
 <br>
 Studying for the CFA.. 2024 07~
 <br>
-Waiting for the exam result.. 2024 11~
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
