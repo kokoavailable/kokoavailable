@@ -6,5 +6,7 @@ A man who wants to perfect the ultimate algorithm.
 </div>
 
 ---
-<img src="https://leetcard.jacoblin.cool/PaulBae?theme=dark&font=Pacifico%20Brush&ext=activity" alt="Leetcode Stats" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoavailable&layout=compact" alt="Top Langs" width="400">
+<div style="display: flex; gap: 10px; width: 210px;">
+  <img src="https://leetcard.jacoblin.cool/PaulBae?theme=dark&font=Pacifico%20Brush&ext=activity" alt="Leetcode Stats" height = "200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoavailable&layout=compact" alt="Top Langs" height = "200">
+</div>
